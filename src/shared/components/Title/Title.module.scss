@@ -1,0 +1,25 @@
+.title {
+  font-family: 'TTOctosquares','sans-serif';
+  line-height: 1.3;
+  font-weight: 400;
+  font-size: var(--font-m);
+  text-transform: uppercase;
+  letter-spacing: 2vw;
+  text-align: center;
+  &_m{
+    font-size: var(--font-m);
+  }
+
+  &_l{
+    font-size: var(--font-l);
+  }
+
+  &_xl{
+    font-size: var(--font-xl);
+  }
+
+  &_xxl{
+    font-size: var(--font-xxl);
+  }
+
+}

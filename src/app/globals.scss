@@ -1,0 +1,12 @@
+@import './styles/fonts';
+@import './styles/reset';
+@import './styles/variables';
+
+
+html,
+body{
+  font-size: var(--font-m);
+  line-height: 1.4;
+  font-family: "MazzardH",'sans-serif';
+  color:white;
+}
